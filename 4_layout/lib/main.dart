@@ -7,7 +7,6 @@ double charging_rate = 18.4;
 double voltage = 255;
 double battery_capacity = 38.5;
 double charging_efficiency = 0.84;
-
 double charging_time = 7.085;
 double charging_power = 4.1400;
 
